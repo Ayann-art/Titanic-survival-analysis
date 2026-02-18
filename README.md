@@ -97,13 +97,33 @@ Open titanic_analysis.ipynb
 
 Run all cells
 
-## 🚀 Future Improvements
+## 📈 Visualizations
 
-Feature engineering
+The following visualizations were created using Matplotlib and Seaborn:
 
-Machine learning model for survival prediction
+- Survival Count Plot  
+  Shows the number of passengers who survived and did not survive.
 
-Model evaluation and comparison
+- Survival by Gender (Bar Chart)  
+  Compares survival rates between male and female passengers.
+
+- Survival by Passenger Class (Bar Chart)  
+  Displays survival distribution across Pclass (1st, 2nd, 3rd).
+
+- Age Distribution (Histogram)  
+  Shows the distribution of passenger ages.
+
+- Fare Distribution (Histogram)  
+  Visualizes how ticket prices are distributed.
+
+- Age vs Survival (Box Plot)  
+  Compares age distributions of survivors and non-survivors.
+
+- Fare vs Survival (Box Plot)  
+  Shows the relationship between ticket fare and survival.
+
+- Correlation Heatmap  
+  Displays correlation between numerical features.
 
 ## 👤 Author
 
