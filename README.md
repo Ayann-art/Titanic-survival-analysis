@@ -76,10 +76,15 @@ Higher ticket fares were associated with higher survival probability
 
 ## 📂 Project Structure
 Titanic-Survival-Analysis/
+
 │
+
 ├── notebooks/
+
 │   └── titanic_analysis.ipynb
+
 │
+
 └── README.md
 
 ## ▶ How to Run the Project
