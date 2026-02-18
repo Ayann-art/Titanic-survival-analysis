@@ -81,7 +81,7 @@ Titanic-Survival-Analysis/
 
 ├── notebooks/
 
-│   └── titanic_analysis.ipynb
+│      └── titanic_analysis.ipynb
 
 │
 
